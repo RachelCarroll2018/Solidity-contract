@@ -1,7 +1,5 @@
 # Unit 20 - "Joint Savings Account"
 
-![alt=“”](Images/20-5-challenge-image.png)
-
 ### Background
 
 In this project we act as an employee at a new startup company. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
